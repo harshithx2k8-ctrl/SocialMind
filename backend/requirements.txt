@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+openai
+hindsight-client
+python-multipart
+python-dotenv
+# Optional Postgres: pip install psycopg2-binary, then set DATABASE_URL in .env
